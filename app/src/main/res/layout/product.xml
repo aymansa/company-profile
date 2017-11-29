@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:background="@color/bg"
+	android:orientation="vertical">
+	<RelativeLayout
+		android:id="@+id/lytTitle"
+		android:layout_width="fill_parent"
+		android:layout_height="50dip"
+		android:layout_alignParentTop="true"
+		android:background="@drawable/bg_title"
+		android:padding="5dip"
+	>
+		<ImageView
+		    android:contentDescription="@+id/imgLogo"
+			android:id="@+id/imgLogo"
+			android:layout_width="33dip"
+			android:layout_height="33dip"
+			android:layout_alignParentLeft="true"
+			android:background="@drawable/logo"
+			android:layout_centerVertical="true"
+		/>
+		<TextView 
+			android:id="@+id/lblJudul"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content" 
+			android:layout_toRightOf="@+id/imgLogo"
+			android:text="@string/app_name"
+			android:textSize="16sp"
+			android:textStyle="bold"
+			android:textColor="@color/white"
+			android:layout_centerVertical="true"
+			android:layout_marginLeft="10dip"/>
+		<Button 
+		     android:layout_alignParentRight="true"
+		     android:layout_centerVertical="true"
+	         android:id="@+id/btnBack"
+	     	 android:layout_width="wrap_content" 
+	     	 android:layout_height="wrap_content"
+	     	 android:text="@string/back"
+	     	 android:textStyle="bold"
+	     	 android:textSize="14sp"
+	     	 android:background="@drawable/btn_back"
+	     	 android:drawableLeft="@drawable/arrow_l"
+	     	 android:drawablePadding="3dip"/>
+	</RelativeLayout>
+	<RelativeLayout
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:padding="10dip"
+			android:layout_marginBottom="5dip"
+			android:layout_below="@+id/lytTitle"
+		>
+		<LinearLayout 
+			android:orientation="vertical"
+			android:layout_width="fill_parent"
+			android:layout_height="fill_parent"
+			>
+			<!-- For Product -->
+			
+			<TextView
+			    android:layout_marginTop="5dip" 
+		   		android:id="@+id/txtMainProduct"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:gravity="center"
+				android:background="@drawable/bg_list"
+				android:text="@string/product"
+				android:textColor="@color/white"
+				android:textStyle="bold"
+				android:textSize="14dip"
+			/>
+			<ListView 
+			    android:id="@+id/listProduct"
+				android:layout_height="wrap_content"
+				android:layout_width="fill_parent"
+				android:fadeScrollbars="true"
+				android:dividerHeight="1dip"
+				android:background="@color/white"
+			    >			    
+			</ListView>
+			<!-- End Product -->
+		</LinearLayout>
+</RelativeLayout>
+</RelativeLayout>

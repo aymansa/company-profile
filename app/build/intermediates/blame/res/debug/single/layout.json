@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\CompanyProfileApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\companyapp.xml",
+        "source": "D:\\CompanyProfileApp\\app\\src\\main\\res\\layout\\companyapp.xml"
+    },
+    {
+        "merged": "D:\\CompanyProfileApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about.xml",
+        "source": "D:\\CompanyProfileApp\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "D:\\CompanyProfileApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\portfolio.xml",
+        "source": "D:\\CompanyProfileApp\\app\\src\\main\\res\\layout\\portfolio.xml"
+    },
+    {
+        "merged": "D:\\CompanyProfileApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_product.xml",
+        "source": "D:\\CompanyProfileApp\\app\\src\\main\\res\\layout\\dialog_product.xml"
+    },
+    {
+        "merged": "D:\\CompanyProfileApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_service.xml",
+        "source": "D:\\CompanyProfileApp\\app\\src\\main\\res\\layout\\dialog_service.xml"
+    },
+    {
+        "merged": "D:\\CompanyProfileApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\service.xml",
+        "source": "D:\\CompanyProfileApp\\app\\src\\main\\res\\layout\\service.xml"
+    },
+    {
+        "merged": "D:\\CompanyProfileApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_service.xml",
+        "source": "D:\\CompanyProfileApp\\app\\src\\main\\res\\layout\\row_service.xml"
+    },
+    {
+        "merged": "D:\\CompanyProfileApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contact.xml",
+        "source": "D:\\CompanyProfileApp\\app\\src\\main\\res\\layout\\contact.xml"
+    },
+    {
+        "merged": "D:\\CompanyProfileApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\product.xml",
+        "source": "D:\\CompanyProfileApp\\app\\src\\main\\res\\layout\\product.xml"
+    },
+    {
+        "merged": "D:\\CompanyProfileApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_product.xml",
+        "source": "D:\\CompanyProfileApp\\app\\src\\main\\res\\layout\\row_product.xml"
+    }
+]

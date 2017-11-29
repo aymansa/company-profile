@@ -1,0 +1,40 @@
+<resources>
+
+    <string name="app_name">Company Profile App</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_company_app">Company Profile App</string>
+    <string name="exit">Exit</string>
+    <string name="main">Main Menu</string>
+	<string name="home">Home</string>
+	<string name="about">About Us</string>
+	<string name="portfolio">Portfolio</string>
+	<string name="product">Product</string>
+	<string name="service">Service</string>
+	<string name="contact">Contact</string>
+	<string name="visi">Vision</string>
+	<string name="misi">Mision</string>
+	<string name="address">Address</string>
+	<string name="email">Email</string>
+	<string name="web">Official Website</string>
+	<string name="map">Our Location</string>
+	<string name="loc">Google Maps</string>
+	<string name="social">Getting Social</string>
+	<string name="fb">Like us on Facebook</string>
+	<string name="twit">Follow us on Twitter</string>
+	<string name="link">Follow us on Linkedin</string>
+	<string name="you">Subcribe us on Youtube</string>
+	<string name="copy">Copyright 2018, ayman samir</string>
+	<string name="txt_address">Lorem ipsum dolor sit amet</string>
+	<string name="txt_contact">01207396507</string>
+	<string name="txt_email">aymansamir464@gmail.com</string>
+	<string name="txt_vision">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</string>
+	<string name="txt_mision">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</string>
+	<string name="txt_about">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</string>
+	<string name="txt_official">www.example.com</string>
+	<string name="title">Title</string>
+	<string name="desc">Descriptions</string>
+	<string name="cat">Category</string>
+	<string name="close">Close</string>
+	<string name="back">Back</string>
+</resources>

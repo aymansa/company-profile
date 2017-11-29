@@ -1,0 +1,4 @@
+#Tue Nov 28 18:52:52 EET 2017
+base.0=D\:\\CompanyProfileApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_e0f195604bb0fa7309ee3d4a4ba3fa5e898b8eba
+renamed.0=classes.dex
+file.0=D\:\\CompanyProfileApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_e0f195604bb0fa7309ee3d4a4ba3fa5e898b8eba\\classes.dex

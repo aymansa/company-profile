@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\CompanyProfileApp\app\src\main\assets"><file name="db_company" path="D:\CompanyProfileApp\app\src\main\assets\db_company"/></source><source path="D:\CompanyProfileApp\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\CompanyProfileApp\app\src\debug\assets"/></dataSet></merger>

@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "D:\\CompanyProfileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tel.png",
+        "source": "D:\\CompanyProfileApp\\app\\src\\main\\res\\drawable-xhdpi\\tel.png"
+    },
+    {
+        "merged": "D:\\CompanyProfileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\logo.png",
+        "source": "D:\\CompanyProfileApp\\app\\src\\main\\res\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\CompanyProfileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_search.png",
+        "source": "D:\\CompanyProfileApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "D:\\CompanyProfileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\you.png",
+        "source": "D:\\CompanyProfileApp\\app\\src\\main\\res\\drawable-xhdpi\\you.png"
+    },
+    {
+        "merged": "D:\\CompanyProfileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\fb.png",
+        "source": "D:\\CompanyProfileApp\\app\\src\\main\\res\\drawable-xhdpi\\fb.png"
+    },
+    {
+        "merged": "D:\\CompanyProfileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\arrow_l.png",
+        "source": "D:\\CompanyProfileApp\\app\\src\\main\\res\\drawable-xhdpi\\arrow_l.png"
+    },
+    {
+        "merged": "D:\\CompanyProfileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\in.png",
+        "source": "D:\\CompanyProfileApp\\app\\src\\main\\res\\drawable-xhdpi\\in.png"
+    },
+    {
+        "merged": "D:\\CompanyProfileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\port.png",
+        "source": "D:\\CompanyProfileApp\\app\\src\\main\\res\\drawable-xhdpi\\port.png"
+    },
+    {
+        "merged": "D:\\CompanyProfileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\product.png",
+        "source": "D:\\CompanyProfileApp\\app\\src\\main\\res\\drawable-xhdpi\\product.png"
+    },
+    {
+        "merged": "D:\\CompanyProfileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\address.png",
+        "source": "D:\\CompanyProfileApp\\app\\src\\main\\res\\drawable-xhdpi\\address.png"
+    },
+    {
+        "merged": "D:\\CompanyProfileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\contact.png",
+        "source": "D:\\CompanyProfileApp\\app\\src\\main\\res\\drawable-xhdpi\\contact.png"
+    },
+    {
+        "merged": "D:\\CompanyProfileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\service.png",
+        "source": "D:\\CompanyProfileApp\\app\\src\\main\\res\\drawable-xhdpi\\service.png"
+    },
+    {
+        "merged": "D:\\CompanyProfileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bg_list.png",
+        "source": "D:\\CompanyProfileApp\\app\\src\\main\\res\\drawable-xhdpi\\bg_list.png"
+    },
+    {
+        "merged": "D:\\CompanyProfileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\map.png",
+        "source": "D:\\CompanyProfileApp\\app\\src\\main\\res\\drawable-xhdpi\\map.png"
+    },
+    {
+        "merged": "D:\\CompanyProfileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\about.png",
+        "source": "D:\\CompanyProfileApp\\app\\src\\main\\res\\drawable-xhdpi\\about.png"
+    },
+    {
+        "merged": "D:\\CompanyProfileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\arrow.png",
+        "source": "D:\\CompanyProfileApp\\app\\src\\main\\res\\drawable-xhdpi\\arrow.png"
+    },
+    {
+        "merged": "D:\\CompanyProfileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bg_bottom.png",
+        "source": "D:\\CompanyProfileApp\\app\\src\\main\\res\\drawable-xhdpi\\bg_bottom.png"
+    },
+    {
+        "merged": "D:\\CompanyProfileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\CompanyProfileApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\CompanyProfileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\web.png",
+        "source": "D:\\CompanyProfileApp\\app\\src\\main\\res\\drawable-xhdpi\\web.png"
+    },
+    {
+        "merged": "D:\\CompanyProfileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\twit.png",
+        "source": "D:\\CompanyProfileApp\\app\\src\\main\\res\\drawable-xhdpi\\twit.png"
+    }
+]
